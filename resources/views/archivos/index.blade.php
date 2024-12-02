@@ -1,4 +1,7 @@
 @extends('layouts.app')
+<a href="{{ url('http://127.0.0.1:8000') }}" class="btn btn-primary">
+    Inicio de prueba
+</a>
 
 @section('template_title')
     Archivos
